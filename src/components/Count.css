@@ -1,0 +1,22 @@
+.heading{
+    height:fit-content;
+    width:fit-content;
+    padding:10px;
+    margin-left:430px;
+    text-align:center;
+    /* border:1px solid yellow; */
+  }
+  .textarea{
+    height:fit-content;
+    width:fit-content;
+    margin-left:490px;
+    /* border:1px solid yellow; */
+  }
+  .result
+  {
+    height:fit-content;
+    width:fit-content;
+    padding:5px;
+    margin-left:490px;
+    /* border:1px solid yellow; */
+  }
